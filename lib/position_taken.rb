@@ -14,5 +14,3 @@ def valid_move?(arr, index)
     return false
   end
 end
-
-
